@@ -1,5 +1,5 @@
 ---
-track: AI Product Strategy
+track: AI Product Management
 student: Nguyễn Hoàng Thanh Tùng
 msv: 2A202600846
 date: 18/06/2026
