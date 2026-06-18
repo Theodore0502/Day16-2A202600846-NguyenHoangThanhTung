@@ -1,17 +1,10 @@
----
-track: AI Product Management
-student: Nguyễn Hoàng Thanh Tùng
-msv: 2A202600846
-date: 18/06/2026
----
-
 # Day16-2A202600846-NguyenHoangThanhTung
 
 ## Thông tin học viên
 
 - Mã học viên: 2A202600846
 - Họ tên: Nguyễn Hoàng Thanh Tùng
-- Track: AI Product Strategy
+- Track: AI Product Management
 
 ## File nộp
 
